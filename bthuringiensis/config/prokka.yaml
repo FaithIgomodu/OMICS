@@ -1,0 +1,5 @@
+samples:
+    - SRR2093871
+# Define constant parts/prefixes
+assembly_dir: "output/spades/{sample}"
+prokka_dir: "output/prokka/{sample}"
