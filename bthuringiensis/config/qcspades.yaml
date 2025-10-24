@@ -1,0 +1,5 @@
+samples:
+   SRR2093871:
+     r1: "data/reads/SRR2093871_1.fastq.gz"
+     r2: "data/reads/SRR2093871_2.fastq.gz"
+sample_id: "SRR2093871" 
