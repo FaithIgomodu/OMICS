@@ -1,0 +1,6 @@
+samples:
+    - SRR2093871
+# Define constant parts/prefixes
+assembly_dir: "output/spades/{sample}"
+barrnap_dir: "output/barrnap/{sample}"
+prodigal_dir: "output/prodigal/{sample}"
